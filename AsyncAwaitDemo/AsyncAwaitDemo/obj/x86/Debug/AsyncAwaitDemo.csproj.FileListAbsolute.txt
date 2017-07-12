@@ -1,0 +1,5 @@
+/Users/mitulpatel/Documents/GitHub/CSharpCLI/AsyncAwaitDemo/AsyncAwaitDemo/bin/Debug/AsyncAwaitDemo.exe
+/Users/mitulpatel/Documents/GitHub/CSharpCLI/AsyncAwaitDemo/AsyncAwaitDemo/bin/Debug/AsyncAwaitDemo.pdb
+/Users/mitulpatel/Documents/GitHub/CSharpCLI/AsyncAwaitDemo/AsyncAwaitDemo/obj/x86/Debug/AsyncAwaitDemo.csproj.CoreCompileInputs.cache
+/Users/mitulpatel/Documents/GitHub/CSharpCLI/AsyncAwaitDemo/AsyncAwaitDemo/obj/x86/Debug/AsyncAwaitDemo.exe
+/Users/mitulpatel/Documents/GitHub/CSharpCLI/AsyncAwaitDemo/AsyncAwaitDemo/obj/x86/Debug/AsyncAwaitDemo.pdb
